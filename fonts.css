@@ -172,3 +172,9 @@
    font-weight: normal;
    font-style: italic;
 }
+@font-face {
+   font-family: "Gotham Medium";
+   src: url("fonts/Gotham-Medium.woff") format("woff"), url("fonts/Gotham-Medium.eot") format("embedded-opentype"), url("fonts/Gotham-Medium.otf") format("opentype");
+   font-weight: normal;
+   font-style: normal;
+}
